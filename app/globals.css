@@ -24,7 +24,7 @@
   /* Gradient */
   --background-image-gradient-primary: linear-gradient(
     to bottom right,
-    oklch(0.71 0.18 261),
+    oklch(0.71 0.18 260),
     oklch(0.605 0.2 262),
     oklch(0.49 0.22 263)
   );
