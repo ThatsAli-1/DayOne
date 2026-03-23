@@ -22,7 +22,7 @@
   --color-destructive-foreground: var(--destructive-foreground);
 
   /* Gradient */
-  --background-image-gradient-primary: linear-gradient(
+  --background-image-gradient: linear-gradient(
     to bottom right,
     oklch(0.71 0.18 260),
     oklch(0.605 0.2 262),
